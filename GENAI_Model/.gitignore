@@ -1,1 +1,11 @@
+.env
+venv/
+connection_data.txt
+.anaconda/
 
+Llama/*
+mmyolo/*
+.ipynb_checkpoints/*
+__pycache__/*
+datadum/*
+best.pt
