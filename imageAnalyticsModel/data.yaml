@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['c', 'h', 's1', 's2']
+
+roboflow:
+  workspace: inventorynewdata
+  project: pim-2chly
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/inventorynewdata/pim-2chly/dataset/14
