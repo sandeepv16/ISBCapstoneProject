@@ -1,0 +1,11 @@
+#python-dotenv
+google-generativeai
+streamlit
+configparser
+torch
+psycopg
+ultralytics
+boto3
+opencv-python-headless
+
+
